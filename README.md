@@ -20,7 +20,7 @@
 2. **Service слой** (`UserService`) - бизнес-логика приложения  
 3. **Repository слой** (`UserRepository`) - взаимодействие с базой данных
 
-## 📁 Структура проекта
+```
 springBootStudyProject/
 ├── src/main/java/com/springboot/demo/
 │ ├── ProjectExampleApplication.java # Главный класс приложения
@@ -40,6 +40,7 @@ springBootStudyProject/
 ├── mvnw.cmd # Maven wrapper для Windows
 └── .mvn/wrapper/
 └── maven-wrapper.properties # Конфигурация Maven wrapper
+```
 
 ## 🛠️ Технологии и зависимости
 
